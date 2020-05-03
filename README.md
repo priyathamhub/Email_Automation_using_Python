@@ -16,7 +16,7 @@ Here we used one predefined module which is :
 -> smtplib - This module which defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon.
 
 Note: In python 3.8 they already pre_imported this smtplib module.
-
+Try to restart Python after importing the module.
 If you get any import error use "pip install secure-smtplib" to import the module and do this in Command_Prompt.
 
 *** Any Doubts regarding the code please free to contact me on telegram @https://t.me/thehoodkillsthebug
